@@ -1,9 +1,9 @@
 # Site settings
 # Site title
-title: Coming Soon
+title: Launching Soon!
 
 # Site description
-description: A fancy description of the site
+description: The website of the home of these 3 channels are coming soon.
 
 # Site background
 background: "images/background.jpg"
@@ -15,7 +15,7 @@ logo: "images/logo.png"
 # (This can be commented out if not required.)
 countdown:
   # format: "2013-09-25 16:00:00 +0800"
-  launch_date: 2025-01-01
+  launch_date: 2022-04-30 18:00:00 +0800
   # %d, %H, %M, %S available
   format: "%d days, %H hours, %M minutes, %S seconds"
 
@@ -28,7 +28,7 @@ subscribe:
 # (This can be commented out if not required.)
 social:
   facebook: "#"
-  twitter: "#"
+  twitter: "LaroTayoGaming"
   google: "#"
   instagram: "#"
   pinterest: "#"
