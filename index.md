@@ -3,8 +3,6 @@ layout: soon
 permalink: /
 ---
 
-# Coming soon
+# The Network is launching soon!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut purus.
-Some call to action.
-
+Wait for more updates on the countdown!
