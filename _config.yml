@@ -27,13 +27,13 @@ subscribe:
 # Social media links
 # (This can be commented out if not required.)
 social:
-  facebook: "#"
-  twitter: "LaroTayoGaming"
-  google: "#"
-  instagram: "#"
-  pinterest: "#"
-  snapchat: "#"
-  linkedin: "in/#"
+  #facebook: "#"
+  twitter: "LTGNetwork"
+  #google: "#"
+  #instagram: "#"
+  #pinterest: "#"
+  #snapchat: "#"
+  #linkedin: "in/#"
 
 # Build settings
 markdown: kramdown
